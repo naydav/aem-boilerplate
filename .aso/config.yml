@@ -1,6 +1,6 @@
 # AEM Sites Optimizer Configuration
 # Please update the site_url below with your actual site URL
-site_url: "YOUR_SITE_URL_HERE"
+site_url: "test"
 
 # Example:
 # site_url: "https://your-site.com"
