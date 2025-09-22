@@ -1,6 +1,11 @@
 # AEM Sites Optimizer Configuration
-# Please update the site_url below with your actual site URL
-site_url: "test2"
+# A github repo can have multiple sites associated with it. site_url should be a list of urls.
 
 # Example:
-# site_url: "https://your-site.com"
+# site_url:
+#   - "https://your-site.com"
+#   - "https://another-site.com"
+
+site_url:
+  - "https://blog.adobe.com`"
+  - "https://blog.adobe.com/`"
